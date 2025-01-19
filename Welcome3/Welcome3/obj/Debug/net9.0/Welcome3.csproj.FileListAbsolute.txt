@@ -1,0 +1,15 @@
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/bin/Debug/net9.0/Welcome3
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/bin/Debug/net9.0/Welcome3.deps.json
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/bin/Debug/net9.0/Welcome3.runtimeconfig.json
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/bin/Debug/net9.0/Welcome3.dll
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/bin/Debug/net9.0/Welcome3.pdb
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/Welcome3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/Welcome3.AssemblyInfoInputs.cache
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/Welcome3.AssemblyInfo.cs
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/Welcome3.csproj.CoreCompileInputs.cache
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/Welcome3.sourcelink.json
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/Welcome3.dll
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/refint/Welcome3.dll
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/Welcome3.pdb
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/Welcome3.genruntimeconfig.cache
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Welcome3/Welcome3/obj/Debug/net9.0/ref/Welcome3.dll

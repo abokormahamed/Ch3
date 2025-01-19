@@ -1,0 +1,15 @@
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/bin/Debug/net9.0/Addition
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/bin/Debug/net9.0/Addition.deps.json
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/bin/Debug/net9.0/Addition.runtimeconfig.json
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/bin/Debug/net9.0/Addition.dll
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/bin/Debug/net9.0/Addition.pdb
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/Addition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/Addition.AssemblyInfoInputs.cache
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/Addition.AssemblyInfo.cs
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/Addition.csproj.CoreCompileInputs.cache
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/Addition.sourcelink.json
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/Addition.dll
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/refint/Addition.dll
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/Addition.pdb
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/Addition.genruntimeconfig.cache
+/Users/abokormahamed/Desktop/IS - 110 - Objektorientert programmering/Ch3/Addition/Addition/obj/Debug/net9.0/ref/Addition.dll
